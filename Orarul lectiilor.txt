@@ -1,0 +1,33 @@
+LUNI: Franceza  8-9
+      Matematica  9-10
+      Romana  10-11
+      Geografie  11-12
+      Istorie  12-13
+      Informatica  13-14
+
+MARTI: Chimie  8-9
+       Matematica  9-10
+       Ed.Fizica  10-11
+       Fizica  11-12
+       Engleza  12-13
+
+MIERCURI: Religie  9-10
+          Fizica  10-11
+          Matematica  11-12
+          Romana  12-13
+          Informatica  13-14
+
+JOI:  Filosofie  8-9
+      Biologie  9-10
+      Matematica  10-11
+      Ed.Fizica  11-12
+      Romana  12-13
+      Informatica  13-14
+      Dirigentie  14-15
+
+VINERI:  Fizica  8-9
+         Franceza  9-10
+         Engleza  10-11
+         Matematica  11-12
+         Informatica  12-13
+         Informatica  13-14

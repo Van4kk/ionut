@@ -1,0 +1,7 @@
+/DATABASE ORACLE PROIECT DE ATESTAT 
+
+CREATE DATABASE Agentia de Turism ;
+
+
+
+

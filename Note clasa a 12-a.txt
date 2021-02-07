@@ -1,0 +1,21 @@
+SEMESTRUL I:                                    SEMESTRUL II:                                 MEDIILE ANUALE:       
+
+Romana:3;3;4;            Medie: 7               Romana:;;;               Medie:               Romana:;;;               Medie: 
+Matematica:2;            Medie: 5               Matematica:;             Medie:               Matematica:;             Medie:
+Matematica Opt:;;        Medie: 8               Matematica Opt:;;        Medie:               Matematica Opt:;;        Medie: 
+Informatica:10;9;8;      Medie: 9               Informatica:;;;          Medie:               Informatica:;;;          Medie: 
+Informatica Opt:10;10;   Medie: 10              Informatica Opt:10;10;   Medie: 10            Informatica Opt:10;10;   Medie: 10
+Fizica:;;                Medie: 6               Fizica:;;                Medie:               Fizica:;;                Medie: 
+Engleza:8;10;            Medie: 9               Engleza;;                Medie:               Engleza;;                Medie: 
+Franceza:;;              Medie: 5               Franceza:;;              Medie:               Franceza:;;              Medie: 
+Filosofie:4;7;           Medie: 6               Filosofie:;;             Medie:               Filosofie:;;             Medie: 
+Geografie:9;             Medie: 9               Geografie:;              Medie:               Geografie:;              Medie: 
+Istorie:9;10;            Medie: 10              Istorie:;;               Medie:               Istorie:;;               Medie: 
+Chimie:5;5;              Medie: 5               Chimie:;;                Medie:               Chimie:;;                Medie: 
+Religie:10;10;           Medie: 10              Religie:10;10;           Medie: 10            Religie:10;10;           Medie: 10
+Ed.Fizica:10;10;         Medie: 10              Ed.Fizica:10;10;         Medie: 10            Ed.Fizica:10;10;         Medie: 10
+Biologie:4;4;7;          Medie: 5               Biologie:;;;             Medie:               Biologie:;;;             Medie:
+Dirigentie:10;10;        Medie: 10              Dirigentie:10;10;        Medie: 10            Dirigentie:10;10;        Medie: 10
+Purtare:10;10;           Medie: 10              Purtare:10;10;           Medie: 10            Dirigentie:10;10;        Medie: 10
+
+Media Semestriala:  8,21                        Media Semestriala:                            Media Anuala:
